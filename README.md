@@ -14,4 +14,4 @@ A collection of webmaps illustrating ecosystem services analyses in coastal envi
 Some python scripts for post-processing InVEST Recreation model results
 
 
-**Software listed here is not maintained by the Natural Capital Project, and is not gauranteed to be useful except to the people who developed it.*
+**Software listed here is not maintained by the Natural Capital Project, and is not guaranteed to be useful except to the people who developed it.*
