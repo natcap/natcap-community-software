@@ -5,7 +5,7 @@ A crowd-sourced list of projects developed by individuals and teams across NatCa
 University of Washington's Outdoor Recreation and Data Lab
 
 ### http://viz.naturalcapitalproject.org
-Examples and resources to facilitate synthetizing, visualizing and communicating Ecosystem Services Data
+Examples and resources to facilitate synthesizing, visualizing and communicating ecosystem services information
 
 ### http://marineapps.naturalcapitalproject.org/
 A collection of webmaps illustrating ecosystem services analyses in coastal environments
